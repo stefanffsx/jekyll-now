@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "Life is good!"
 published: true
 ---
 
