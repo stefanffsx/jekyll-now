@@ -1,9 +1,8 @@
 ---
-published: false
+published: true
 ---
+
 
 ## A New Post
 
 **Life is good!**
-
-
